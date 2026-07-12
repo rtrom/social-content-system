@@ -25,7 +25,7 @@ Every derivative is built from these, chosen to fit the channel. This is a flat 
 
 For any channel:
 
-1. **Anchor to pillar and brief.** Open the finished pillar and the `content-brief` anchor. The core message and CTA are fixed by the brief; do not restate them differently. Completion: pillar and brief both loaded before drafting.
+1. **Anchor to pillar and brief.** Open the finished pillar and load the content brief (`content-brief` **resolve** routine). The core message and CTA are fixed by the brief; do not restate them differently. Completion: pillar and brief both loaded before drafting.
 
 2. **Choose the moves this channel needs.** A tweet: pull + compress. A video script: restructure + compress. A newsletter: expand. Completion: the moves are chosen to fit the channel's native form, not applied mechanically.
 

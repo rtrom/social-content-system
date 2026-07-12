@@ -14,8 +14,8 @@ You are depth 2 of the Track B cascade. Your job is to choose one angle from the
 ## Procedure
 
 1. Take the signal summary from `trend-scout`. Choose ONE trend and ONE angle — not a shortlist. If several are viable, pick the strongest and say why; the pipeline needs one.
-2. Load the brand voice profile via the `brand-voice` skill so the brief carries tone forward. If no `brand-voice-profile.md` exists yet, stop and flag it — do not invent a voice.
-3. Write the five-part brief per the `content-brief` skill: core message (one sentence), 3–5 key points, one CTA, tone notes (the delta from standing brand voice), angle hook. Set the release slug.
+2. Load the brand voice profile via the `brand-voice` **resolve** routine so the brief carries tone forward. If no profile exists yet, stop and flag it — do not invent a voice (in this cascade, prefer flagging over interrupting the batch to interview the user).
+3. Write the five-part brief per the `content-brief` skill: core message (one sentence), 3–5 key points, one CTA, tone notes (the delta from standing brand voice), angle hook. Set the release slug, and save the brief to the canonical file (`content-brief.md`) so the channel writers can resolve it.
 4. Pressure-test coherence: could all eight channels be built from this brief without any needing to invent a fact or stance? If a channel would have to improvise the core claim, the brief is underspecified — fix it before handing off.
 
 ## Delegation

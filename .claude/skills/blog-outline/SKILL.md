@@ -36,7 +36,7 @@ The pillar ships with metadata that is itself content, not an afterthought. Prod
 
 ## Procedure
 
-1. **Load the brief.** Take the `content-brief` anchor. Completion: core message, key points, CTA, angle hook all in hand.
+1. **Load the brief.** Load the content brief via the `content-brief` **resolve** routine. Completion: core message, key points, CTA, angle hook all in hand.
 
 2. **Build the outline.** Map every key point to an H2 in importance order; write the intro hook and conclusion CTA. Completion: every brief key point appears as a section; no section introduces a claim absent from the brief.
 
