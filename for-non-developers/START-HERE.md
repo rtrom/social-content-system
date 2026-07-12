@@ -96,6 +96,26 @@ just name it: *"Use the reels-script skill for this."*
 
 ---
 
+## Where your content shows up
+
+Your finished content — the blog post and every social post — is **written right in
+the chat**, so you can read it and copy it straight out.
+
+If you'd rather have each piece as its own **file to download**, just ask:
+
+> **"Save each piece as a separate file I can download."**
+
+Claude will create a file per channel (blog, TikTok, Reels, Shorts, X, Threads,
+newsletter) plus a short index, and give you download links. A few things to know:
+
+- The files download to your Mac (usually your **Downloads** folder) when you click them.
+- They don't pile up in a folder on your computer by themselves — you save the ones
+  you want to keep. Copy-pasting from the chat is perfectly fine too.
+- Doing your content work inside a **Project** (see Part 3) keeps a run's pieces
+  together in one place.
+
+---
+
 ## If something seems off
 
 - **Content sounds generic or not like you?** Re-run *"Help me set up my brand voice"*
