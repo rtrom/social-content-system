@@ -1,0 +1,23 @@
+{
+  "//": "Rename to .mcp.json and place in your project root (or merge into ~/.claude.json). These are THIRD-PARTY servers not verified by Anthropic — they act within whatever account you authenticate. Create accounts yourself at the URLs below and check pricing before daily use. Fill in your own credentials; do not commit real tokens.",
+
+  "mcpServers": {
+    "virlo": {
+      "//": "Short-form video trend/analytics data (TikTok, Reels, Shorts). Feeds trend-research and the Track A analysts. Sign up at dev.virlo.ai to get your server URL / key.",
+      "type": "url",
+      "url": "https://REPLACE-WITH-YOUR-VIRLO-SERVER-URL",
+      "headers": {
+        "Authorization": "Bearer REPLACE-WITH-YOUR-VIRLO-KEY"
+      }
+    },
+
+    "niche": {
+      "//": "End-to-end editorial pipeline (sailquery/niche). Overlaps with the drafting skills; optional. Sign up at nicheangle.com. Uses OAuth 2.1 + PAT — follow their connector setup; the URL below is a placeholder.",
+      "type": "url",
+      "url": "https://REPLACE-WITH-YOUR-NICHE-SERVER-URL",
+      "headers": {
+        "Authorization": "Bearer REPLACE-WITH-YOUR-NICHE-PAT"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# User-generated content — not part of the distributable system
+brand-voice-profile.md
+calendar/
+
+# Local MCP credentials (copy mcp.json.example → .mcp.json and fill in)
+.mcp.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
