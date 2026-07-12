@@ -5,7 +5,19 @@ social media content (blog posts, TikTok, Reels, Shorts, X, Threads, newsletters
 that all sound like *you*.
 
 You do this setup **once**. It takes about 15 minutes. You will not need to touch
-any code or files — just click and type.
+any code or files — just click and type. No GitHub account or login needed.
+
+---
+
+## Part 0 — Download the skills (30 seconds)
+
+Click this link — it downloads one zip file, no login required:
+
+**https://github.com/rtrom/social-content-system/raw/master/for-non-developers/social-content-skills-handoff.zip**
+
+Then **unzip it** (right-click → Extract / double-click on Mac). You'll get this
+guide plus 17 small skill zip files. Keep that folder open — you'll use those zips
+in Part 2.
 
 ---
 
