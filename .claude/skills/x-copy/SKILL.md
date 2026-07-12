@@ -7,7 +7,7 @@ description: Writes X posts and threads derived from the pillar — within X's c
 
 Writes the X **derivative** of the pillar — a single post or a thread, within X's character limit. X rewards a sharp standalone line and a thread that earns each next post; the constraint *is* the form.
 
-Apply `repurposing` against the pillar and `content-brief` anchor — X leans on **pull** (a sharp verbatim line from the pillar) and **compress**. Write against `brand-voice-profile.md`. Conventions — character limit, hook post, thread structure — are in [`x-copy-reference.md`](x-copy-reference.md).
+Apply `repurposing` against the pillar and `content-brief` anchor — X leans on **pull** (a sharp verbatim line from the pillar) and **compress**. Load and write against the brand voice profile (`brand-voice` **resolve** routine). Conventions — character limit, hook post, thread structure — are in [`x-copy-reference.md`](x-copy-reference.md).
 
 ## Procedure
 

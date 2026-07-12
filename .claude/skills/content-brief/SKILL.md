@@ -7,7 +7,7 @@ description: Compresses a chosen trend and angle into the single coherence ancho
 
 Produces the **anchor**: one short brief that every downstream writer — blog, three video channels, X, Threads, newsletter — binds to. The brief exists so eight channels tell *one* story, not eight. It is the single source of truth for what this release is about; if the anchor is vague, every channel drifts a different direction and the QA pass finds contradictions. Get this right before any channel skill runs.
 
-Write against the `brand-voice-profile.md` (via the `brand-voice` skill) — the anchor carries tone forward so each writer inherits it rather than re-deriving it.
+Load and write against the brand voice profile (`brand-voice` **resolve** routine — capture it first if none exists) — the anchor carries tone forward so each writer inherits it rather than re-deriving it.
 
 ## What the anchor contains
 

@@ -7,7 +7,7 @@ description: Writes the TikTok published post text — caption, hashtag strategy
 
 Writes the published post text that ships with the TikTok video: the caption, the hashtags, and the on-screen-text callouts. The script is the video; this is everything the viewer reads in the post frame. Together they are one post.
 
-Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`), and write against `brand-voice-profile.md`. The caption carries the brief's CTA in TikTok-native phrasing.
+Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`), and load and write against the brand voice profile (`brand-voice` **resolve** routine). The caption carries the brief's CTA in TikTok-native phrasing.
 
 Conventions — caption length, hashtag count and mix, callout style — are in [`tiktok-caption-reference.md`](tiktok-caption-reference.md).
 

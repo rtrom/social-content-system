@@ -7,7 +7,7 @@ description: Writes the Instagram Reels video script — spoken and on-screen co
 
 Writes the script for the Instagram Reels video — spoken words and on-screen text. Caption and hashtags are the `reels-caption` skill's job; together they are one post.
 
-The scripting *method* is the same as short-form video generally: apply `repurposing` against the pillar and `content-brief` anchor (restructure hook-first, compress), write against `brand-voice-profile.md`, open on a hook, structure in beats within a ~15–60s length. Rather than restate those shared mechanics, this skill covers only where **Reels diverges from TikTok** — the divergences are the reference in [`reels-divergences.md`](reels-divergences.md).
+The scripting *method* is the same as short-form video generally: apply `repurposing` against the pillar and `content-brief` anchor (restructure hook-first, compress), load and write against the brand voice profile (`brand-voice` **resolve** routine), open on a hook, structure in beats within a ~15–60s length. Rather than restate those shared mechanics, this skill covers only where **Reels diverges from TikTok** — the divergences are the reference in [`reels-divergences.md`](reels-divergences.md).
 
 ## Procedure
 

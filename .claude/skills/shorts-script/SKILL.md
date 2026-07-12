@@ -7,7 +7,7 @@ description: Writes the YouTube Shorts video script — spoken and on-screen con
 
 Writes the script for the YouTube Shorts video — spoken words and on-screen text. The publish text (YouTube SEO title, description, tags) is the `shorts-caption` skill's job; together they are one post.
 
-The scripting method is the shared short-form one: apply `repurposing` against the pillar and `content-brief` anchor (hook-first restructure, compress), write against `brand-voice-profile.md`, hook first, beats within length. This skill covers only where **Shorts diverges** — the divergences are in [`shorts-divergences.md`](shorts-divergences.md).
+The scripting method is the shared short-form one: apply `repurposing` against the pillar and `content-brief` anchor (hook-first restructure, compress), load and write against the brand voice profile (`brand-voice` **resolve** routine), hook first, beats within length. This skill covers only where **Shorts diverges** — the divergences are in [`shorts-divergences.md`](shorts-divergences.md).
 
 ## Procedure
 

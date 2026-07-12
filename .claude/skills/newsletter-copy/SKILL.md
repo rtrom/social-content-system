@@ -7,7 +7,7 @@ description: Writes the email newsletter derived from the pillar — subject lin
 
 Writes the email **derivative** of the pillar. The newsletter is the one channel that **expands** rather than compresses — a longer email affords the personal and contextual layer the pillar's SEO structure strips out. Take the pillar's frame and add texture: the behind-the-scenes, the personal angle, the direct-to-reader voice. Expansion adds texture, not new claims — the message stays the brief's.
 
-Apply `repurposing` (the expand move) against the pillar and `content-brief` anchor; write against `brand-voice-profile.md`. The email adds warmth and context but says what the release says. Conventions — subject, preview, body, CTA placement — are in [`newsletter-reference.md`](newsletter-reference.md).
+Apply `repurposing` (the expand move) against the pillar and `content-brief` anchor; load and write against the brand voice profile (`brand-voice` **resolve** routine). The email adds warmth and context but says what the release says. Conventions — subject, preview, body, CTA placement — are in [`newsletter-reference.md`](newsletter-reference.md).
 
 ## Procedure
 

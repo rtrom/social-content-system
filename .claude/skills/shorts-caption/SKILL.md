@@ -7,7 +7,7 @@ description: Writes the YouTube Shorts publish metadata — SEO title, descripti
 
 For YouTube Shorts, the publish text is not a social caption — it is **SEO metadata**: a search-optimized title, a description, and tags. Treat it as YouTube search copy, closer to the pillar's meta title/description than to a TikTok caption. This is the difference that matters: YouTube surfaces Shorts through search and suggested, so this text is a ranking input, not just a frame.
 
-Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`); write against `brand-voice-profile.md`. Conventions — title length, description structure, tag strategy — are in [`shorts-metadata-reference.md`](shorts-metadata-reference.md).
+Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`); load and write against the brand voice profile (`brand-voice` **resolve** routine). Conventions — title length, description structure, tag strategy — are in [`shorts-metadata-reference.md`](shorts-metadata-reference.md).
 
 ## Procedure
 

@@ -7,7 +7,7 @@ description: Writes Threads posts derived from the pillar in Threads' longer, lo
 
 Writes the Threads **derivative** of the pillar. The one rule that defines this skill: **Threads is not X with a different logo.** Threads' format is longer and looser, its register more conversational and community-leaning, its algorithm more forgiving of a post that unfolds. Repurpose from the pillar for Threads' native form — do not port the `x-copy` output across.
 
-Apply `repurposing` against the pillar and `content-brief` anchor; write against `brand-voice-profile.md`. Where X leans on tight pull-and-compress, Threads affords **expand** — more room to add a conversational beat. The divergences from X are in [`threads-divergences.md`](threads-divergences.md).
+Apply `repurposing` against the pillar and `content-brief` anchor; load and write against the brand voice profile (`brand-voice` **resolve** routine). Where X leans on tight pull-and-compress, Threads affords **expand** — more room to add a conversational beat. The divergences from X are in [`threads-divergences.md`](threads-divergences.md).
 
 ## Procedure
 

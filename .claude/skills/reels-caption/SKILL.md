@@ -7,7 +7,7 @@ description: Writes the Instagram Reels published post text — caption and hash
 
 Writes the published post text that ships with the Reels video: caption and hashtags. The script is the video; this is what the viewer reads in the post.
 
-Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`); write against `brand-voice-profile.md`; carry the brief's CTA in Instagram-native phrasing.
+Derive from the same pillar and `content-brief` anchor as the script (apply `repurposing`); load and write against the brand voice profile (`brand-voice` **resolve** routine); carry the brief's CTA in Instagram-native phrasing.
 
 Instagram captions and hashtags diverge from TikTok — Reels tolerates and rewards a longer caption, and the hashtag norms differ. The IG-specific conventions are in [`reels-caption-reference.md`](reels-caption-reference.md).
 

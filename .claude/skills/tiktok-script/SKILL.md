@@ -7,7 +7,7 @@ description: Writes the TikTok video script — spoken and on-screen content —
 
 Writes the **derivative** that TikTok publishes: the spoken words and on-screen text of the video. This is the script only — the caption, hashtags, and on-screen callouts that publish alongside it are the `tiktok-caption` skill's job. The two together are one post; a subagent uses both.
 
-Apply the `repurposing` skill against the finished pillar and `content-brief` anchor — the script is a restructured, compressed derivation, not a fresh take. Write against `brand-voice-profile.md`.
+Apply the `repurposing` skill against the finished pillar and `content-brief` anchor — the script is a restructured, compressed derivation, not a fresh take. Load and write against the brand voice profile (`brand-voice` **resolve** routine).
 
 ## What makes it TikTok
 

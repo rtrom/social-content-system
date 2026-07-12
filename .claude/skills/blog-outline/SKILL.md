@@ -7,7 +7,7 @@ description: Structures the pillar blog post — heading pattern, SEO convention
 
 Structures the **pillar** — the full blog post that is the source every other channel later derives from. The pillar is written first and fullest; captions, scripts, and the newsletter are all compressions or restructurings of it, never independent takes. So the pillar's outline must be complete enough that the whole release can be repurposed out of it without any channel going back to raw research.
 
-Built from the `content-brief` anchor and written against `brand-voice-profile.md`. The core message and key points come from the brief — the outline gives them structure and SEO shape, it does not invent new claims.
+Built from the `content-brief` anchor and written against the brand voice profile (loaded via the `brand-voice` **resolve** routine). The core message and key points come from the brief — the outline gives them structure and SEO shape, it does not invent new claims.
 
 ## The outline
 
