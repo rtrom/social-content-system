@@ -49,9 +49,9 @@ Everything depends on your **brand voice profile**. Before producing anything, r
 
 ---
 
-## Path 1 — Cowork (point-and-click, no files to edit)
+## Path 1 — Claude.ai / Cowork (point-and-click, no files to edit)
 
-This is the simpler path.
+This is the simpler path. **For a non-developer, use this — not the git/install-script path above.** A ready-made hand-off kit (upload-ready skill zips + a plain-language guide) is in [`for-non-developers/`](for-non-developers/) — send them `for-non-developers/social-content-skills-handoff.zip` and point them at `START-HERE.md`.
 
 1. **Install the skills.** In Cowork, go to **Customize > Skills** and add each of the 17 skills. (No file editing — just install them.)
 2. **Optional — add trend data.** Go to **Customize > Connectors > Add custom connector** and paste the Virlo (and optionally Niche) server URL, then authenticate. Sign up at dev.virlo.ai first. Skip this to start; the system works without it, just with less live trend data.
